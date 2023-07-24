@@ -1,11 +1,9 @@
-# Rust and C ffi example
-
-The small project is an example on how to call C from Rust and to build C and Rust code together.
-
-For more info read [the article](https://dev.to/samkevich/calling-c-code-from-rust-95i)
+# Rust and C ffi example with Bindgen 
 
 ## Run
 To compile and run
 ```
+git clone https://github.com/PhilipTamb/Bindgen-Cpp-Class-Example
+cd Bindgen-Cpp-Class-Example
 cargo run
 ```
